@@ -6,7 +6,7 @@ namespace TestsGenerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
